@@ -1,0 +1,131 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h2{
+    color: #FF277B;
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+    margin-top: 100px;
+}
+.style-paragraph{
+    padding-bottom: 20px;
+}
+.first-section{
+    height: 700px;
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat; 
+    background-size: contain;  
+}
+.half-width1-section1{
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+    margin-top: 5%;  
+}
+.half-width2-section1{
+    width: 40%;
+    float: left;
+    margin-right: 2%;
+    margin-left: 2%;
+    padding-top: 2%;
+}
+.half-width2-section1 img{
+    width: 100%;
+}
+.half-width1-section2{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 5%;  
+}
+.half-width2-section2{
+    width: 40%;
+    float: left;
+    margin-left: 8%;
+    margin-top: 8%;
+}
+.half-width1-section2 img{
+    width: 100%;
+}
+.button{
+    background-color: #FF277B;
+    padding: 8px 25px;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;   
+}
+.second-section{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 700px;
+}
+.third-section{
+    height: 600px;
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.fourth-section{
+    height: 700px;
+    text-align: center;
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#style-biography{
+    color: black;
+    font-size: 30px;
+}
+.latest-work1{
+    width: 25%;
+    margin-left: 10%;
+    float: left;
+}
+.latest-work2{
+    width: 25%;
+    float: left;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.latest-work3{
+    width: 25%;
+    margin-right: 10%;
+    float: left;
+}
+.latest-work img{
+    width: 100%;
+}
+.style-for-heading03{
+    text-align: center;
+    padding-bottom: 20px;
+}
+footer p{
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+#clint-review{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+#email-box{
+    background-color: #FF277B;
+    padding: 8px 25px;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    margin: 0% 20%;
+    padding: 1% 0%;
+}
+#style-email{
+    font-size: 30px;
+}
+#alignment{
+    width: 100%;
+    float: left;
+}
